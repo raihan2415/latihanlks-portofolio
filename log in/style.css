@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0%;
+    text-decoration: none;
+    font-family: montserrat;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(120deg,#4da9e6,#3adbbb);
+}
+.login-form{
+    width: 360px;
+    height: 580px;
+}

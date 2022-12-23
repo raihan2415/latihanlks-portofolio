@@ -1,0 +1,7 @@
+.jumbotron{
+    padding-top: 6rem;
+    background-image: url('pantai.jpg');
+    background-size: cover;
+}
+
+    
